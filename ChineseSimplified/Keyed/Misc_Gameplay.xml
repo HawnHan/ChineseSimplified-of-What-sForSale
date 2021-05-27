@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<WDYS.CommandShowSettlementGoods>待售物品</WDYS.CommandShowSettlementGoods>
+	<WDYS.CommandShowSettlementGoodsDesc>查看该基地的待售物品。</WDYS.CommandShowSettlementGoodsDesc>
+	<WDYS.WindowTitle>{0} 的待售物品</WDYS.WindowTitle>
+	<WDYS.SearchBar>在库存中搜索: </WDYS.SearchBar>
+	<WDYS.MarketValue>市场价。此价格未计算你殖民者的价格改善影响。</WDYS.MarketValue>
+	<WDYS.Quit>关闭</WDYS.Quit>
+	<WDYS>What's for sale?</WDYS>
+
+	<WDYS.OnlyIndustrial>仅能查看工业时代以上科技的派系基地的待售物品</WDYS.OnlyIndustrial>
+    <WDYS.NeedTradeConsole>需要通讯台查看待售物品: </WDYS.NeedTradeConsole>
+
+</LanguageData>
